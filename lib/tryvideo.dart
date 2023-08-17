@@ -1,27 +1,10 @@
 
 
-
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
+import 'package:hexcolor/hexcolor.dart';
 import 'package:walki/shared/colors/colors.dart';
-
-
-
-// hellow new branch
-// hellow new branch
-// hellow new branch
-
-
-
-
-
-
-
-
-
-
-
-
+import 'package:walki/shared/components/components.dart';
 
 void main() => runApp(const MyApp());
 
@@ -104,7 +87,7 @@ class _HomePageState extends State<HomePage>with SingleTickerProviderStateMixin 
 
   @override
   Widget build(BuildContext context) {
-   //var size = MediaQuery.of(context).size;
+   var size = MediaQuery.of(context).size;
 
     return Scaffold(
       appBar: AppBar(
