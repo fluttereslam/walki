@@ -16,6 +16,8 @@ import 'package:walki/shared/colors/colors.dart';
 ///code3
 //code 4
 //code5
+//code6
+//code7
 
 
 void main() => runApp(const MyApp());
