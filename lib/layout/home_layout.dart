@@ -4,15 +4,19 @@ import 'package:curved_labeled_navigation_bar/curved_navigation_bar_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:url_launcher/url_launcher.dart';
+
 import 'package:walki/layout/cubit/cubit.dart';
 import 'package:walki/layout/cubit/states.dart';
-import 'package:walki/modules/web_view.dart';
+
 import 'package:walki/shared/colors/colors.dart';
 import 'package:walki/shared/components/components.dart';
 
 import '../modules/addstory.dart';
-import '../modules/home/home.dart';
+
+
+
+
+// code 999
 
 class HomeLayout extends StatefulWidget {
   @override
