@@ -6,8 +6,6 @@ import 'package:walki/shared/colors/colors.dart';
 
 
 ///code
-///// code from me me me
-///// code from me me me
 
 
 
